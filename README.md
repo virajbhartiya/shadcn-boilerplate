@@ -12,7 +12,7 @@ npm run dev
 To add a shadcn component
 
 ```
-npx shadcn-ui@latest add COMPONENT_NAME
+npx shadcn@latest add COMPONENT_NAME
 ```
 
 Update the src/styles/index.css file with the theme form [ShadCn Themes](https://ui.shadcn.com/themes)
